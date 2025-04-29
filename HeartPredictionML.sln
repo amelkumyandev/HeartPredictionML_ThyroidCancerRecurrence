@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeartPredictionML", "HeartPredictionML\HeartPredictionML.csproj", "{C96FD363-1852-4ECB-A9B1-217F82456D34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThyroidCancerRecurrence", "ThyroidCancerRecurrence\ThyroidCancerRecurrence.csproj", "{55D0F54C-1B69-468C-9615-DD3B46070986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C96FD363-1852-4ECB-A9B1-217F82456D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C96FD363-1852-4ECB-A9B1-217F82456D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C96FD363-1852-4ECB-A9B1-217F82456D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C96FD363-1852-4ECB-A9B1-217F82456D34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D0F54C-1B69-468C-9615-DD3B46070986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D0F54C-1B69-468C-9615-DD3B46070986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D0F54C-1B69-468C-9615-DD3B46070986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D0F54C-1B69-468C-9615-DD3B46070986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5888411C-7F18-4CBB-AD7C-9740A6FAD9F2}
+	EndGlobalSection
+EndGlobal
